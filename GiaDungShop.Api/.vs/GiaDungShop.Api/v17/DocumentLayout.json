@@ -1,0 +1,733 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260531180049_AddChatMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260531180049_AddChatMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\voucher\\applyvoucherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\voucher\\applyvoucherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\order\\createbuynoworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\order\\createbuynoworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\order\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\productreviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\migrations\\20260531145508_addproductreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:migrations\\20260531145508_addproductreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\migrations\\20260515163738_addpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:migrations\\20260515163738_addpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\paymentmethod\\paymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\paymentmethod\\paymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\giadungshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:giadungshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\cart\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\cart\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\dtos\\cart\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:dtos\\cart\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\giadungshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:giadungshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\migrations\\20260416143051_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:migrations\\20260416143051_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|d:\\lamviec\\ltdd\\doanltdd\\doanltdd\\giadungshop.api\\migrations\\20260417152620_addvoucherfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8956DCB6-EEFA-4AF2-862A-7D6DAB2AD628}|GiaDungShop.Api.csproj|solutionrelative:migrations\\20260417152620_addvoucherfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:15:56.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductReviewsController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\ProductReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductReviewsController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\ProductReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ProductReviewsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:39:52.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260531145508_AddProductReviews.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260531145508_AddProductReviews.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260531145508_AddProductReviews.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260531145508_AddProductReviews.cs",
+              "RelativeToolTip": "Migrations\\20260531145508_AddProductReviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:55:09.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VouchersController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\VouchersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VouchersController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\VouchersController.cs",
+              "RelativeToolTip": "Controllers\\VouchersController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:11:17.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:54:57.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Voucher.cs",
+              "RelativeDocumentMoniker": "Models\\Voucher.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Voucher.cs",
+              "RelativeToolTip": "Models\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:08:50.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:15:25.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:54:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:58:25.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260531180049_AddChatMessage.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260531180049_AddChatMessage.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260531180049_AddChatMessage.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260531180049_AddChatMessage.cs",
+              "RelativeToolTip": "Migrations\\20260531180049_AddChatMessage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:00:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplyVoucherDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Voucher\\ApplyVoucherDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Voucher\\ApplyVoucherDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Voucher\\ApplyVoucherDto.cs",
+              "RelativeToolTip": "DTOs\\Voucher\\ApplyVoucherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:10:42.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBuyNowOrderDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Order\\CreateBuyNowOrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\CreateBuyNowOrderDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Order\\CreateBuyNowOrderDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\CreateBuyNowOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:43:35.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:14:58.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:17:59.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Order\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Order\\CreateOrderDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Order\\CreateOrderDto.cs",
+              "RelativeToolTip": "DTOs\\Order\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:21:22.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentMethod.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "Models\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:27:42.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:15:12.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260515163738_AddPaymentMethod.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260515163738_AddPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260515163738_AddPaymentMethod.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260515163738_AddPaymentMethod.cs",
+              "RelativeToolTip": "Migrations\\20260515163738_AddPaymentMethod.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:37:38.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:26:41.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductReview.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\ProductReview.cs",
+              "RelativeDocumentMoniker": "Models\\ProductReview.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\ProductReview.cs",
+              "RelativeToolTip": "Models\\ProductReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T14:38:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:14:11.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:30:36.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:20:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:24:28.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:20:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:20:26.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentMethodDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\PaymentMethod\\PaymentMethodDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PaymentMethod\\PaymentMethodDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\PaymentMethod\\PaymentMethodDto.cs",
+              "RelativeToolTip": "DTOs\\PaymentMethod\\PaymentMethodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:29:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:33:33.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T16:27:29.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:18:10.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20260417152620_AddVoucherFeature.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260417152620_AddVoucherFeature.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260417152620_AddVoucherFeature.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260417152620_AddVoucherFeature.cs",
+              "RelativeToolTip": "Migrations\\20260417152620_AddVoucherFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:26:20.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T14:19:50.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:19:44.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:18:29.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20260416143051_InitDb.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260416143051_InitDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260416143051_InitDb.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Migrations\\20260416143051_InitDb.cs",
+              "RelativeToolTip": "Migrations\\20260416143051_InitDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:30:51.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:14:43.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GiaDungShop.Api.http",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\GiaDungShop.Api.http",
+              "RelativeDocumentMoniker": "GiaDungShop.Api.http",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\GiaDungShop.Api.http",
+              "RelativeToolTip": "GiaDungShop.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-16T16:26:19.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateCartItemDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Cart\\UpdateCartItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Cart\\UpdateCartItemDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Cart\\UpdateCartItemDto.cs",
+              "RelativeToolTip": "DTOs\\Cart\\UpdateCartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:21:01.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Cart\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Cart\\AddToCartDto.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\DTOs\\Cart\\AddToCartDto.cs",
+              "RelativeToolTip": "DTOs\\Cart\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:20:48.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:18:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:18:21.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:17:48.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:17:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GiaDungShop.Api.csproj",
+              "DocumentMoniker": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\GiaDungShop.Api.csproj",
+              "RelativeDocumentMoniker": "GiaDungShop.Api.csproj",
+              "ToolTip": "D:\\lamviec\\LTDD\\DoAnLTDD\\DoAnLTDD\\GiaDungShop.Api\\GiaDungShop.Api.csproj",
+              "RelativeToolTip": "GiaDungShop.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T14:15:35.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

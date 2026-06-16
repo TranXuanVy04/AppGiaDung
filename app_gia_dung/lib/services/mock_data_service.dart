@@ -1,0 +1,58 @@
+import '../models/product_model.dart';
+
+class MockDataService {
+  static List<ProductModel> products = [
+    ProductModel(
+      id: 1,
+      name: 'Nồi cơm điện Sharp 1.8L',
+      description: 'Nồi cơm điện dung tích lớn cho gia đình 4-6 người.',
+      price: 890000,
+      oldPrice: 990000,
+      stock: 20,
+      brand: 'Sharp',
+      imageUrl: '',
+      categoryId: 1,
+      rating: 4.5,
+      soldCount: 120,
+    ),
+    ProductModel(
+      id: 2,
+      name: 'Ấm siêu tốc Sunhouse',
+      description: 'Đun nước nhanh, dung tích 1.7L.',
+      price: 350000,
+      oldPrice: 420000,
+      stock: 35,
+      brand: 'Sunhouse',
+      imageUrl: '',
+      categoryId: 2,
+      rating: 4.2,
+      soldCount: 120,
+    ),
+    ProductModel(
+      id: 3,
+      name: 'Máy xay sinh tố Philips',
+      description: 'Công suất mạnh, xay nhuyễn thực phẩm.',
+      price: 1250000,
+      oldPrice: 1450000,
+      stock: 12,
+      brand: 'Philips',
+      imageUrl: '',
+      categoryId: 1,
+      rating: 4.8,
+      soldCount: 120,
+    ),
+    ProductModel(
+      id: 4,
+      name: 'Máy hút bụi mini cầm tay',
+      description: 'Thiết kế nhỏ gọn, hút bụi tiện lợi.',
+      price: 650000,
+      oldPrice: 750000,
+      stock: 15,
+      brand: 'Xiaomi',
+      imageUrl: '',
+      categoryId: 3,
+      rating: 4.4,
+      soldCount: 120,
+    ),
+  ];
+}
